@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Veneya
+# Hi 👋, I'm Veneya Kharkhodi
 
 **B.Tech CSE (AI/ML) @ MAIT Delhi · Batch of 2027**
 
@@ -62,9 +62,5 @@ Aspiring Data Scientist · Ex-DRDO Intern · GATE 2026 Qualified · NCC 'B' & 'C
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veneya&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=veneya&theme=radical&hide_border=true)
 
 </div>
