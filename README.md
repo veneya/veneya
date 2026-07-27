@@ -7,6 +7,7 @@
 Aspiring Data Scientist · Ex-DRDO Intern · GATE 2026 Qualified · NCC 'B' & 'C' Certificate Holder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veneya-kharkhodi24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Veneya/)
 
 </div>
 
